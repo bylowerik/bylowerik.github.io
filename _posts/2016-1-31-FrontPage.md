@@ -28,6 +28,8 @@ That gives you feedback on your overall performance as well as your current perf
 Under "Detailed Results" you have the possibility to see how you perform on each station. It gives you the average hit rate and here you can also see you performance for different number of rounds.
 
 ![Detailed Result]({{ site.url }}/images/DetailedChart.png)
+![Detailed Result Station 4]({{ site.url }}/images/DetailedChartStation4.png)
+
 
 Finally, under "Daily Results", you can simply choose a date and see how you performed that day. You also have the opportunity to delete some results if you would like to.
 
