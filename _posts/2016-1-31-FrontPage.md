@@ -9,6 +9,8 @@ different stations and will help you to improve your performance for competition
 To start a session simply press "Start Session" in the start menu: 
 
 ![Start Menu]({{ site.url }}/images/StartMenu.png)
+![Live Session]({{ site.url }}/images/LiveSession.png)
+
 
 During the session, you simply press "Hit" or "Miss" as you go.
 
