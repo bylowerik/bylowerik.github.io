@@ -27,7 +27,7 @@ That gives you feedback on your overall performance as well as your current perf
 ![LastSession]({{ site.url }}/images/LastSession.png)
 ![Overview Chart]({{ site.url }}/images/OverViewChart.png)
 
-Under "Detailed Results" you have the possibility to see how you perform on each station. It gives you the average hit rate and here you can also see you performance for different number of rounds.
+Under "Detailed Results" you have the possibility to see how you perform on each station. It gives you the average hit rate and here you can also see your performance for different number of rounds.
 
 ![Detailed Result]({{ site.url }}/images/DetailedChart.png)
 ![Detailed Result Station 4]({{ site.url }}/images/DetailedChartStation4.png)
