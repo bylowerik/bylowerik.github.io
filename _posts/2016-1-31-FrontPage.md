@@ -7,3 +7,5 @@ Skeet25 is the app for you who want to keep track of your results. The app is si
 different stations and will help you to improve your performance for competition or just for fun.
 
 
+Here is an image:
+![My helpful screenshot]({{ site.url }}/images/skeetbackground.png)
