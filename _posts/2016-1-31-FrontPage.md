@@ -19,12 +19,20 @@ After the session you save the result and it is automatically added to the stati
 
 ![Overview]({{ site.url }}/images/ResultMenu.png)
 
-Under "Last Session" you can see how you did the last round and under "Overview" you get a chart which shows how many hits you have had together with the mean. It is possible to view you last 20 results as well as your total history.
+Under "Last Session" you can see how you did the last round and under "Overview" you get a chart which shows how many hits you have had together with the mean. It is possible to view your last 20 results for example as well as your total history. 
+That gives you feedback on your overall performance as well as your current performance.
 
 ![LastSession]({{ site.url }}/images/LastSession.png)
 ![Overview Chart]({{ site.url }}/images/OverViewChart.png)
 
+Under "Detailed Results" you have the possibility to see how you perform on each station. It gives you the average hit rate and here you can also see you performance for different number of rounds.
+
+![Detailed Result]({{ site.url }}/images/DetailedChart.png)
+
+Finally, under "Daily Results", you can simply choose a date and see how you performed that day. You also have the opportunity to delete some results if you would like to.
 
 
+![Daily Result]({{ site.url }}/images/DailyResults.png)
+![Daily Result List]({{ site.url }}/images/DailyResultTable.png)
 
 
