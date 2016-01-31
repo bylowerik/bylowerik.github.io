@@ -16,7 +16,7 @@ To start a session simply press "Start Session" in the start menu:
 
 During the session, you simply press "Hit" or "Miss" as you go.
 
-After the session you save the result and it is automatically added to the statistics. Choosing "Results" in the start menu, you get different choices of how you can see you your performance.
+After the session you save the result and it is automatically added to the statistics. Choosing "Results" in the start menu, you get different choices of how you can see your performance.
 
 
 ![Overview]({{ site.url }}/images/ResultMenu.png)
