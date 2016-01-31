@@ -17,7 +17,7 @@ During the session, you simply press "Hit" or "Miss" as you go.
 After the session you save the result and it is automatically added to the statistics. Choosing "Results" in the start menu, you get different choices of how you can see you your performance.
 
 
-![Overview]({{ site.url }}/images/Overview.png)
+![Overview]({{ site.url }}/images/ResultMenu.png)
 
 Under "Last Session" you can see how you did the last round and under "Overview" you get a chart which shows how many hits you have had together with the mean. It is possible to view you last 20 results as well as your total history.
 
