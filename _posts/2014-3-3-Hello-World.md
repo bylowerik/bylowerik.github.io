@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to Skeet25!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Skeet25 is the app for you who want to keep track of your results. The app is simple to use and gives you detailed information about how you perform overall and on different stations. This gives you immediate feedback about your abilities on 
+different stations.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
